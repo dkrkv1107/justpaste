@@ -1,0 +1,80 @@
+h1 {
+  color: #000;
+  margin-bottom: 15px;
+  margin-top: 60px;
+  font-weight: initial;
+}
+.main {
+  max-width: 960px;
+  margin: auto;
+}
+.account-widget {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.logo {
+  border-radius: 50%;
+}
+span.title {
+  margin-left: 11px;
+}
+.tag,
+.article {
+  color: gray;
+  font-weight: 300;
+}
+.detail {
+  display: flex;
+}
+button {
+  padding: 4px 8px;
+  background-color: white;
+}
+.star {
+  margin-left: 6px;
+}
+.task {
+  display: flex;
+  font-size: 17px;
+}
+.titl {
+  display: flex;
+  margin: 0px;
+}
+.main-two {
+  display: flex;
+}
+.react {
+  max-width: 904px;
+}
+.link {
+  margin: 0px;
+  display: flex;
+  color: red;
+}
+.angula {
+  display: flex;
+  max-width: 904px;
+}
+.angular {
+  max-width: 904px;
+}
+.lin {
+  color: red;
+}
+
+.diff {
+  margin-bottom: 10px;
+}
+.angular-content {
+  display: contents;
+}
+.angularjs {
+  display: flex;
+}
+.content-three {
+  display: flex;
+  margin-top: 50px;
+  flex-direction: column;
+}

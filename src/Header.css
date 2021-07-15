@@ -1,0 +1,42 @@
+.header {
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  padding-bottom: -35px;
+  margin-bottom: -31px;
+}
+.header-nav {
+  display: flex;
+}
+@media (min-width: 768px) {
+  .header-image2 {
+    display: block !important;
+  }
+}
+.add-note {
+  display: inline-block;
+  margin-left: 46px;
+  margin-top: 19px;
+  justify-content: center;
+  align-items: center;
+
+  height: 30px;
+  border-radius: 5px;
+  background-color: #e65050;
+  color: white;
+  font-weight: bold;
+}
+.Account {
+  display: inline-block;
+  margin-left: 3px;
+  margin-top: 19px;
+  justify-content: center;
+  align-items: center;
+
+  height: 30px;
+  border-radius: 5px;
+  background-color: #e65050;
+  color: white;
+  font-weight: bold;
+}
